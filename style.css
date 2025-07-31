@@ -1,0 +1,49 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+}
+.hero {
+    background-color: #f2f7f5;
+    padding: 8rem 0;
+}
+.hero h1 {
+    font-weight: bold;
+}
+.kategori-icon {
+    font-size: 2rem;
+}
+.footer {
+    background: #f9f9f9;
+    padding: 2rem 0;
+    font-size: 0.9rem;
+}
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+.bg-icon{
+    background: #DCEDE7;
+    width: 50px;
+    margin: auto;
+}
+.bg-jasa-icon{
+    background: #DCEDE7;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    font-size:1.5rem;
+}
+
+.card-service {
+    transition: all 0.2s;
+}
+.card-service:hover {
+    transform: scale(1.02);
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+}
+.rating {
+    color: #ffc107;
+}
+.card-img-top {
+    height: 180px;
+    object-fit: cover;
+}
